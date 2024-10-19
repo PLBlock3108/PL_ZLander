@@ -1,64 +1,43 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366673108 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372101318 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366676214 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372104499 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366679323 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372107663 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366694506 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372110861 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366697591 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372113970 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366702637 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372117815 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366705728 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366710219 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366713538 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366716764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372120938 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -67,82 +46,67 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366731937 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372136092 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366735103 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372139342 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366738189 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372142437 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366743966 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372145525 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366747049 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372148792 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366750126 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372152014 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366753235 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372155154 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366768369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372158237 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366771446 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372162209 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366774532 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372165289 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366777620 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366780716 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366784636 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372168439 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -151,103 +115,49 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366799787 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372183555 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366802889 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372186673 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366806353 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372189762 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366809445 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372192895 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366824587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372195987 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366827665 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372199108 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366842798 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372202189 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366845882 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366848999 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366852282 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366855382 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366858474 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366861550 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366865695 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366868827 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366871914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372205304 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -256,49 +166,25 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366887045 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372220428 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366890127 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372223549 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366893930 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372226656 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366897016 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366900199 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366903284 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366906471 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366909560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372229774 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -307,76 +193,37 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366924770 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372244887 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366927865 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372247993 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366930952 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372251099 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366934032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372254186 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366937707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372257321 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366940790 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366955946 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366959033 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366962120 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366965240 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366968317 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366971402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372260453 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -385,103 +232,67 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729366986703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372275575 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366989818 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372278677 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366992916 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372281782 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366996056 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372284860 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729366999133 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372287937 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367014310 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372291043 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367017387 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372294146 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367020458 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372297323 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367023546 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372300444 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367026645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372303561 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367029733 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367044858 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367047969 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367051056 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367054149 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367057362 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372306677 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -490,97 +301,37 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367072491 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372321800 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367075634 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372324905 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367078712 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372328031 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367081846 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372331155 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367085444 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372334235 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367088534 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367091657 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367095902 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367099006 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367102091 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367105222 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367108311 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367111445 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367114571 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367117659 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367120782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372337339 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -589,70 +340,31 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367136272 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372352786 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367139398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372356134 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367142485 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372359226 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367145577 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372362347 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367148684 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367163817 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367166907 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367169994 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367173104 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367176236 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367179359 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372365455 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -661,37 +373,25 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367194556 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372380575 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367197734 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372383673 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367200918 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372386802 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367204022 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367207102 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367210184 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372389994 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -700,82 +400,43 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367225441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372405125 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367228577 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372408300 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367231700 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372411421 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367235049 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372414546 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367238175 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372417676 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367243014 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372420793 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367252151 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367255309 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367258446 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367261534 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367264675 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367267898 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367271036 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372423897 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -784,76 +445,37 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367286176 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372439147 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367289272 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372442271 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367292355 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372446745 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367295441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372449840 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367298551 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372452961 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367301631 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367316779 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367319874 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367322955 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367326071 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367329166 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367332254 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372456066 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -862,37 +484,19 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367347565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372471210 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367350781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372474307 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367353920 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367357062 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367360190 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367363319 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372477419 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -901,43 +505,31 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367378447 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372492729 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367381577 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372495861 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367384660 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372498939 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367387769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372503757 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367390897 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367394062 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367397184 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372506838 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -946,58 +538,37 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367412322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372521972 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367416873 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372525052 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367420011 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372528154 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367435248 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372531265 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367438416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372534350 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367441499 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367444583 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367447714 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367450816 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372538475 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1006,121 +577,103 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367466016 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372553590 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367469326 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372556721 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367472632 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372559794 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367475811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372562927 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367478912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372566010 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367482032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372569097 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367497193 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372572219 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367500295 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372576652 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367503385 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372579751 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367506469 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372582879 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367509589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372586004 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367512668 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372589124 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367516096 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372592253 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367531209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372595368 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367534333 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372598447 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367537425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372601552 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367540506 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367543610 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367546711 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372604652 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1129,127 +682,49 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367561828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372619768 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367564954 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372622850 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367568037 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372625962 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367571380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372629048 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367574474 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372632164 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367577557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372635291 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367580647 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372638382 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367583750 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367586839 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367589933 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367593020 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367596108 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367599241 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367602328 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367605468 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367608548 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367611654 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367614734 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367617824 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367620936 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367624012 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372641474 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1258,94 +733,37 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367639188 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372656607 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367642287 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372659753 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367645400 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372663063 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367648510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372666175 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367651603 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372669467 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367666765 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367669860 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367672953 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367676095 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367679219 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367682347 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367687528 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367690622 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367693719 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367696855 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372672569 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -1354,468 +772,33 @@ its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367711992 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372688207 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367715094 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372691500 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367718212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372694644 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367721366 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372697767 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367736741 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729372700869 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367739878 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367743003 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367746110 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367749211 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367752321 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367755418 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367758554 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367761735 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367764863 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367767986 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367783113 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367786237 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367789320 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367792621 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367795716 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367798865 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367813983 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367817721 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367823032 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367826125 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367829254 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367844496 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367847712 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367850827 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367853910 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367857029 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367860216 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367875341 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367878419 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367881516 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367884604 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367887679 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367890759 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367893849 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367896945 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367912069 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367915162 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367918262 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367921387 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367924492 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367927594 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367930688 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367933785 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367948918 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367952033 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367955129 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367970277 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367973383 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367976465 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367979562 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729367994703 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729367997801 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368000929 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368004017 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729368019201 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368022313 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368025523 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368028687 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368031848 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368034979 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729368050115 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368054565 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368057662 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729368072825 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368075953 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729368079062 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-its-tracy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
